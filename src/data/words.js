@@ -1,4 +1,12 @@
 const words = {
+  wendy: true,
+  arbys: true,
+  wolly: true,
+  adams: true,
+  wiger: true,
+  jared: true,
+  unkar: true,
+  brady: true,
   aahed: true,
   aalii: true,
   aargh: true,
